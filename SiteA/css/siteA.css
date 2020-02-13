@@ -1,1 +1,50 @@
-//css  file for Site A
+body#landing
+    {background-image: url("../pics/AH/Centrecollegeseal.png");background-repeat: no-repeat;background-position: center;background-color:beige}
+h1
+{font-size: 45px;font-family:sans-serif}
+
+ul.navigation{font-size: 18; font-family: sans-serif;
+}
+
+p{font-size: 18px;font-family:sans-serif}
+.navigation{}
+body#mathematics.department{background-color: aquamarine;  
+}
+th{
+    font-family:monospace; font-size: 22; border: 1px solid black
+}
+td{font-family: monospace; font-size: 18; border: 1px solid black}
+body#ComputerScience.department{
+    background-color: aqua
+}
+body#Politics.department{
+    background-color: blanchedalmond
+}
+body#Economics.department{
+    background-color:darkturquoise
+}
+body#studioArt.department{
+    background-color: burlywood
+}
+table{
+    border: 3px solid black;
+
+}
+p{
+    font-style: italic
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
