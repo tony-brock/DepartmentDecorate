@@ -5,6 +5,9 @@ h1
 
 ul.navigation{font-size: 18; font-family: sans-serif;
 }
+a {
+    font-size: 18; font-family: sans-serif;
+}
 
 p{font-size: 18px;font-family:sans-serif}
 .navigation{}
