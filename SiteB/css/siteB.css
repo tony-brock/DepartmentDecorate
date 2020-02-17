@@ -1,9 +1,10 @@
 body {background-color: beige;}
 
-ul {list-style-type: none; width: 860;}
-li {margin: 12px;}
+ul {list-style-type: none; list-style-position: inside}
+li {margin: 12px; font-size: 16px;}
 p, h1, table, ul {text-align: center;}
 
+#twins {background-image: url(../../SiteA/pics/AH/Centrecollegeseal.png); background-repeat: no-repeat; background-position: center;}
 
 
 #ComputerScience {font-family: sans-serif;}
